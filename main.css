@@ -1,6 +1,10 @@
 a[href="https://www.youtube.com/"] {color: red;}
 a[href="https://validator.w3.org/"] {color: red;}
 p {font-size: 24px;}
+.link a {color: black;text-decoration: none;font-size: larger;}
+.link a:hover {color: dodgerblue;}
+.text {color: whitesmoke;background-color:black;font-size: 900}
+.button {color: white;background-color: dodgerblue;}
 footer {background-color: black;}
 footer address:nth-child(2) {color: white;}
 footer tel:nth-child(3) {color: white;}
